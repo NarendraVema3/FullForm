@@ -8,6 +8,7 @@ API  --> Application Program Interface
 
 REST --> REpresentational State Transfer
 
+CRM  --> CustomerRelationalMapping 
 
 // this came at spring security authentication
 
